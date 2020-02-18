@@ -1,0 +1,13 @@
+C:\Users\Kun\Desktop\Tafe\Michael\Assignment\YourProjectWorkshop\WorkshopData\bin\Release\YourProjectRecord.db
+C:\Users\Kun\Desktop\Tafe\Michael\Assignment\YourProjectWorkshop\WorkshopData\bin\Release\WorkshopData.dll.config
+C:\Users\Kun\Desktop\Tafe\Michael\Assignment\YourProjectWorkshop\WorkshopData\bin\Release\WorkshopData.dll
+C:\Users\Kun\Desktop\Tafe\Michael\Assignment\YourProjectWorkshop\WorkshopData\bin\Release\WorkshopData.pdb
+C:\Users\Kun\Desktop\Tafe\Michael\Assignment\YourProjectWorkshop\WorkshopData\bin\Release\Dapper.dll
+C:\Users\Kun\Desktop\Tafe\Michael\Assignment\YourProjectWorkshop\WorkshopData\bin\Release\System.Data.SQLite.dll
+C:\Users\Kun\Desktop\Tafe\Michael\Assignment\YourProjectWorkshop\WorkshopData\bin\Release\Dapper.xml
+C:\Users\Kun\Desktop\Tafe\Michael\Assignment\YourProjectWorkshop\WorkshopData\bin\Release\System.Data.SQLite.xml
+C:\Users\Kun\Desktop\Tafe\Michael\Assignment\YourProjectWorkshop\WorkshopData\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Kun\Desktop\Tafe\Michael\Assignment\YourProjectWorkshop\WorkshopData\obj\Release\WorkshopData.csproj.CoreCompileInputs.cache
+C:\Users\Kun\Desktop\Tafe\Michael\Assignment\YourProjectWorkshop\WorkshopData\obj\Release\WorkshopData.csproj.CopyComplete
+C:\Users\Kun\Desktop\Tafe\Michael\Assignment\YourProjectWorkshop\WorkshopData\obj\Release\WorkshopData.dll
+C:\Users\Kun\Desktop\Tafe\Michael\Assignment\YourProjectWorkshop\WorkshopData\obj\Release\WorkshopData.pdb

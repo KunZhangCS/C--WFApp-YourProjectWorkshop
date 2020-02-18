@@ -1,0 +1,11 @@
+2018-11-29 08:06:12,400 [1] INFO  YourProjectWorkshop.frmMain Tool record deleted
+2018-11-29 08:06:41,628 [1] INFO  YourProjectWorkshop.frmMain New Tool record created
+2018-11-29 08:29:50,401 [1] ERROR YourProjectWorkshop.frmMain Find Tool ID 8
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.ThrowZeroRows(Row row)
+   at Dapper.SqlMapper.QueryRowImpl[T](IDbConnection cnn, Row row, CommandDefinition& command, Type effectiveType)
+   at Dapper.SqlMapper.QuerySingle[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType)
+   at WorkshopData.Tools.Find(Tools record) in C:\Users\Kun\Desktop\Tafe\Michael\Assignment\YourProjectWorkshop\WorkshopData\Tools.cs:line 48
+   at YourProjectWorkshop.frmMain.btnFindTools_Click(Object sender, EventArgs e) in C:\Users\Kun\Desktop\Tafe\Michael\Assignment\YourProjectWorkshop\YourProjectWorkshop\frmMain.cs:line 48
+2018-11-29 10:54:34,026 [1] INFO  YourProjectWorkshop.frmMain New Tool record created
